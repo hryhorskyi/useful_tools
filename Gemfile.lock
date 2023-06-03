@@ -28,6 +28,7 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
+  json
   rubocop
 
 RUBY VERSION
